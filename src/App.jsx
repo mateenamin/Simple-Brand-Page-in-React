@@ -1,5 +1,5 @@
 import React from 'react'
-import './app.css'
+import "./App.css";
 import Navigation from './components/Navigation'
 
 import Hero from './components/Hero'
